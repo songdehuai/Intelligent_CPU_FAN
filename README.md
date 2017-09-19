@@ -1,0 +1,2 @@
+# Intelligent_CPU_FAN
+arduino智能CPU风扇控制器：根据环境光亮调整家庭生物信息服务器CPU风扇速度，并支持红外遥控器PWM调速。
